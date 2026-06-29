@@ -15,26 +15,26 @@ I'm a passionate QA Automation Engineer with hands-on experience building end-to
 ## 🛠️ Tech Stack & Tools
 
 - **Test Automation:** Playwright, JavaScript
-- - **Testing Types:** UI Automation, API Testing, E2E Testing
-  - - **Version Control:** Git, GitHub
-    - - **Certifications:** ISTQB Certified Tester
-     
-      - ---
+- **Testing Types:** UI Automation, API Testing, E2E Testing
+- **Version Control:** Git, GitHub
+- **Certifications:** ISTQB Certified Tester
 
-      ## 📌 Featured Project
+---
 
-      ### [playwright-ecommerce-tests](https://github.com/genishow/playwright-ecommerce-tests)
-      Automated UI and API test suite for an e-commerce platform using Playwright + JavaScript.
+## 📌 Featured Project
 
-      ---
+### [playwright-ecommerce-tests](https://github.com/genishow/playwright-ecommerce-tests)
+Automated UI and API test suite for an e-commerce platform using Playwright + JavaScript.
 
-      ## 📊 GitHub Stats
+---
 
-      ![Genet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=genishow&show_icons=true&theme=default&hide_border=true)
+## 📊 GitHub Stats
 
-      ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=genishow&theme=default&hide_border=true)](https://git.io/streak-stats)
 
-      ## 📫 Get in Touch
+---
 
-      - 💼 [LinkedIn](https://www.linkedin.com/in/genet-worku-319098186/)
-      - - 📍 Pasadena, CA
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/genet-worku-319098186/)
+- 📍 Pasadena, CA
