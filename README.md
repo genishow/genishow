@@ -28,12 +28,6 @@ Automated UI and API test suite for an e-commerce platform using Playwright + Ja
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=genishow&theme=default&hide_border=true)
-
----
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/genet-worku-319098186/)
