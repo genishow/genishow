@@ -21,6 +21,14 @@ I'm a passionate QA Automation Engineer with hands-on experience building end-to
 
 ---
 
+## 📊 GitHub Stats
+
+- 🟩 2,180+ contributions in the last year
+- 🔥 Longest streak: 26 days
+- 📁 17 repositories
+
+---
+
 ## 📌 Featured Project
 
 ### [playwright-ecommerce-tests](https://github.com/genishow/playwright-ecommerce-tests)
