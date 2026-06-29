@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Genet Worku 👋
 
-<!--
-**genishow/genishow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Automation Engineer | Playwright + JavaScript | ISTQB Certified**
 
-Here are some ideas to get you started:
+📍 Pasadena, CA | 🔗 [LinkedIn](https://www.linkedin.com/in/genet-worku-319098186/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 About Me
+
+I'm a passionate QA Automation Engineer with hands-on experience building end-to-end and API test suites. I specialize in catching bugs before they reach production and ensuring software quality through robust, maintainable automation frameworks.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Test Automation:** Playwright, JavaScript
+- - **Testing Types:** UI Automation, API Testing, E2E Testing
+  - - **Version Control:** Git, GitHub
+    - - **Certifications:** ISTQB Certified Tester
+     
+      - ---
+
+      ## 📌 Featured Project
+
+      ### [playwright-ecommerce-tests](https://github.com/genishow/playwright-ecommerce-tests)
+      Automated UI and API test suite for an e-commerce platform using Playwright + JavaScript.
+
+      ---
+
+      ## 📊 GitHub Stats
+
+      ![Genet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=genishow&show_icons=true&theme=default&hide_border=true)
+
+      ---
+
+      ## 📫 Get in Touch
+
+      - 💼 [LinkedIn](https://www.linkedin.com/in/genet-worku-319098186/)
+      - - 📍 Pasadena, CA
