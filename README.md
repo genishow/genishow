@@ -51,21 +51,6 @@ ISTQB-certified QA Automation Engineer with hands-on experience building and dep
 
 ---
 
-## 💼 Experience Highlights
-
-**QA Automation Engineer (Portfolio & Certification)** | Remote | 2024 – Present
-- Built and deployed a production-grade Playwright + GitHub Actions test suite covering UI, API, and cross-browser testing
-- Achieved ISTQB CTFL certification and Full-Stack Developer Certificate (University of Denver)
-
-**Accounts Payable Specialist** | Acacia Home Health Services | Glendale, CA
-- Processed 200+ invoices monthly with 99%+ accuracy — zero audit findings across entire tenure
-- Detected and flagged billing discrepancies before payment release through structured pre-release review
-
-**Accounting Coordinator** | Primary Health Medical Group | Nampa, ID
-- Managed end-to-end AP workflow with precision, reconciling vendor statements and resolving discrepancies
-- Applied data-driven decision-making and meticulous attention to detail — skills directly transferable to QA
-
----
 
 ## 📫 Get in Touch
 
